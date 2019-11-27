@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">OLX App</string>
-    <string name="title_activity_meus_anuncios">MeusAnunciosActivity</string>
+    <string name="app_name">OLX </string>
+    <string name="title_activity_meus_anuncios">Meus Anuncios</string>
+
+
+
+
 </resources>
