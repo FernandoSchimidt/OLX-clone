@@ -37,7 +37,7 @@ public class CadastroActivity extends AppCompatActivity {
         setContentView(R.layout.activity_cadastro);
 
         inicializarComponentes();
-        autenticacao = ConfiguracaoFirebase.getReferenciaAutenticacao();
+        autenticacao = ConfiguracaoFirebase.getFirebaseAutenticacao();
 
 
         botaoAcessar.setOnClickListener(new View.OnClickListener() {

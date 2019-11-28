@@ -23,7 +23,7 @@ public class AnunciosActivity extends AppCompatActivity {
         setContentView(R.layout.activity_anuncios);
 
         //Configuracoes iniciais
-        autenticacao = ConfiguracaoFirebase.getReferenciaAutenticacao();
+        autenticacao = ConfiguracaoFirebase.getFirebaseAutenticacao();
 
 
     }
